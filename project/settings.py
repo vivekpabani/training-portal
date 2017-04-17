@@ -128,3 +128,5 @@ STATICFILES_DIRS = (
 )
 
 STATIC_URL = '/static/'
+
+TOPICS_URL = 'templates/portal/topics'
